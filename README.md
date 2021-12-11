@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## magicprinc software
 
 You can use the [editor on GitHub](https://github.com/magicprinc/magicprinc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
