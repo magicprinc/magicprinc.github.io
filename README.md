@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/magicprinc/magicprinc.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### magicprinc Software Hub
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In theory there is no difference between theory and practice. In practice there is.
 
 ```markdown
 Syntax highlighted code block
